@@ -6,7 +6,7 @@
 <!-- ![Smug Tux](img/SmugTuxUbuntu.jpg){ width="800" height="600" style="display: block; margin: 0 auto" } -->
 
 <img src="img/SmugTuxUbuntu.jpg" 
-        alt="Smug Tux holding Ubuntu installation CD"  />
+        alt="Smug Tux holding Ubuntu installation CD" style="border-radius:30px" />
 <br>
 <br>  
 <br>
@@ -67,7 +67,6 @@
 
 ---
 <!-- footer -->
-<!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/alexander-veldeman-28456723b" target="_blank">
@@ -77,31 +76,3 @@
         <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="LinkedIn" width="40px"/>
     </a>
 
-    
-<!-- End Footer -->
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
