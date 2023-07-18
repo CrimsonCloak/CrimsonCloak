@@ -1,16 +1,14 @@
 <h1 style="color: #44AEFB;"> CrimsonCloak </h1>
+<!-- <div>
+<img alt="Smug Tux" src="img/SmugTuxUbuntu.jpg"/>
+</div> -->
 
-<!-- ![github_cover_banner](INSERT IMAGE) -->
+<!-- ![Smug Tux](img/SmugTuxUbuntu.jpg){ width="800" height="600" style="display: block; margin: 0 auto" } -->
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-
+<img src="img/SmugTuxUbuntu.jpg" 
+        alt="Smug Tux holding Ubuntu installation CD"  />
 <br>
-<br>
-<div align="center">
-
-<!-- [Email Me](mailto:alexander.veldeman.999@gmail.com) -->
-</div>
-</p>    
+<br>  
 <br>
 <!-- Skills and tools -->
 
