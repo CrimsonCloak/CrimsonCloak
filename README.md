@@ -24,7 +24,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
-  
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
 
