@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:alexander.veldeman.999@gmail.com)
+<!-- [Email Me](mailto:alexander.veldeman.999@gmail.com) -->
 </div>
 </p>    
 <br>
@@ -61,17 +61,16 @@
 
 
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
+   <!-- Most used programming languages -->
+
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 </div>
-<!--  End Stats Cards -->
 
 ---
-<!-- Begin Footer -->
+<!-- footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
