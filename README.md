@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> CrimsonCloak </h1>
 
-![github_cover_banner](INSERT IMAGE)
+<!-- ![github_cover_banner](INSERT IMAGE) -->
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
@@ -15,9 +15,7 @@
 <!-- Skills and tools -->
 
 <h2 style="color: #44AEFB">Skills and tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
+
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -60,7 +58,7 @@
 
 
 
-
+ 
    <!-- Most used programming languages -->
 
 <div align="center">
@@ -74,16 +72,14 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    <a href="https://www.linkedin.com/in/alexander-veldeman-28456723b" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px"/>
     </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
+    <a href="https://hub.docker.com/u/aleksandur24" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="LinkedIn" width="40px"/>
     </a>
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
+
+    
 <!-- End Footer -->
 
 <!-- 
