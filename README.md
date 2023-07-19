@@ -6,7 +6,7 @@
         alt="Smug Tux holding Ubuntu installation CD" style="border-radius:30px" />
         <br>
 <p style="font-family: Roboto, cursive">
-Enthousiastic about Linux, Docker and a little bit of development on the side. Big supporter of everything open source, but not experienced enough (yet) to contribute to community projects as much as I would like to.
+Enthousiastic about Linux, Docker and a little bit of development on the side. Big supporter of everything open source, but not experienced enough (yet!) to contribute to community projects as much as I would like to.
 
 
 </p>
