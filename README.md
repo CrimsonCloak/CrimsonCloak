@@ -42,7 +42,7 @@ My main interests include (but are not limited to) virtualisation, containerisat
   </a>
 
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer">
-      <img  alt="Powershell" height="50px" style="padding-right:10px;" src="img/Powershell.jpg"/>
+      <img  alt="Powershell" height="50px" style="padding-right:10px;" src="img/Powershell.svg"/>
   </a>
 </div>
 <br>
