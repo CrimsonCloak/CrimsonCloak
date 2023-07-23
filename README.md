@@ -20,6 +20,18 @@ My main interests include (but are not limited to) virtualisation, containerisat
 <!-- Skills and tools -->
 <div align="center">
 <h2 style="color: #44AEFB">Skills</h2>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer">
+      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer">
+      <img  alt="Powershell" height="50px" style="padding-right:10px;" src="img/PowerShell.svg"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </a>    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -30,21 +42,10 @@ My main interests include (but are not limited to) virtualisation, containerisat
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>    
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
 
-  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer">
-      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
-  </a>
 
-  <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer">
-      <img  alt="Powershell" height="50px" style="padding-right:10px;" src="img/PowerShell.svg"/>
-  </a>
 </div>
+
 <br>
 
 
@@ -62,6 +63,10 @@ My main interests include (but are not limited to) virtualisation, containerisat
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/>
   </a>
+  
+  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
+      <img  alt="Vagrant" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"/> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="Visual Studio Code" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -70,10 +75,6 @@ My main interests include (but are not limited to) virtualisation, containerisat
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
       <img  alt="Grafana" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/> 
-  </a>
-
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-      <img  alt="Vagrant" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"/> 
   </a>
   </div>
 <br>
@@ -92,16 +93,15 @@ My main interests include (but are not limited to) virtualisation, containerisat
       <img  alt="RedHat" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg"/> 
   </a>
 
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-      <img  alt="Windows" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
-  </a>    
-
  <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
       <img  alt="Proxmox" height="50px" style="padding-right:10px;" src="img/Proxmox.png"/> 
   </a>      
   <a href="https://www.vmware.com/be.html" target="_blank" rel="noreferrer">
       <img  alt="VMware ESXi" height="50px" style="padding-right:10px;" src="img/VMware_ESXi.png"/> 
   </a> 
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+      <img  alt="Windows" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> 
+  </a>    
   </div>
 
 <br>
