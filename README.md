@@ -7,14 +7,10 @@
         <br> -->
 <p style="font-family: Roboto, cursive">
 Enthousiastic about Linux, Docker and a little bit of development on the side. Big supporter of everything open source, but not experienced enough (yet!) to contribute to community projects as much as I would like to.
-
-
 </p>
 <p style="font-family: Roboto, cursive">
 My main interests include (but are not limited to) virtualisation, containerisation, gaming and game development/design.
 </p>
-<br>
-<br>  
 <br>
 </div>
 <!-- Skills and tools -->
