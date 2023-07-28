@@ -2,9 +2,9 @@
 <div align="center">      
 <h1 style="color: #44AEFB;"> CrimsonCloak </h1>
 
-<img src="img/SmugTuxUbuntu.jpg" 
+<!-- <img src="img/SmugTuxUbuntu.jpg" 
         alt="Smug Tux holding Ubuntu installation CD" style="border-radius:5%" />
-        <br>
+        <br> -->
 <p style="font-family: Roboto, cursive">
 Enthousiastic about Linux, Docker and a little bit of development on the side. Big supporter of everything open source, but not experienced enough (yet!) to contribute to community projects as much as I would like to.
 
