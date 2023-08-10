@@ -108,7 +108,7 @@ My main interests include (but are not limited to) virtualisation, containerisat
 
 <div align="center">
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&show_icons=true&theme=algolia&border_radius=20&exclude_repo=Unity-game&hide=JavaScript,HTML,CSS,Ruby)
+<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&show_icons=true&theme=algolia&border_radius=20&exclude_repo=Unity-game&hide=JavaScript,HTML,CSS,Ruby) -->
 
 </div>
 
