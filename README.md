@@ -95,10 +95,7 @@ Enthousiastic about Linux, Docker and a little bit of development on the side. B
   </a>    
   </div>
 
-<br>
-<br>         
-<br>
-<br>
+
 <!-- Languages stats-->
 
 <div align="center">
