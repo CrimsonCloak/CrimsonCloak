@@ -11,8 +11,11 @@ Enthousiastic about Linux, Docker and a little bit of development on the side. B
 <!-- Skills and tools -->
 <div align="center">
 <h2 style="color: #44AEFB">Skills</h2>
+  <a href="https://opentofu.org/" target="_blank" rel="noreferrer">
+      <img  alt="OpenTofu" height="50px" style="padding-right:10px;" src="img/OpenTofu.svg"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank" rel="noreferrer">
-      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
+      <img  alt="OpenTofu" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3" target="_blank" rel="noreferrer">
       <img  alt="Powershell" height="50px" style="padding-right:10px;" src="img/PowerShell.svg"/>
