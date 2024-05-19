@@ -5,6 +5,10 @@
 <!-- <img src="img/SmugTuxUbuntu.jpg" 
         alt="Smug Tux holding Ubuntu installation CD" style="border-radius:5%" />
         <br> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CrimsonCloak&label=Profile%20views&color=0e75b6&style=flat" alt="CrimsonCloak" /></p>
+
+
 <p style="font-family: Roboto, cursive">
 Enthousiastic about Linux, Docker and a little bit of development on the side. Big supporter of everything open source, but not experienced enough (yet!) to contribute to community projects as much as I would like to. My main interests include (but are not limited to) virtualisation, containerisation, gaming and game development/design.
 </div>
@@ -102,10 +106,10 @@ Enthousiastic about Linux, Docker and a little bit of development on the side. B
 
 <!-- Languages stats-->
 
+
 <div align="center">
-
-<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrimsonCloak&show_icons=true&theme=algolia&border_radius=20&exclude_repo=Unity-game&hide=JavaScript,HTML,CSS,Ruby) -->
-
+<h2 style="color: #44AEFB">Programming languages</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrimsonCloak&size_weight=0&count_weight=1&show_icons=true&theme=dark&locale=en&layout=compact" alt="CrimsonCloak" /></p>
 </div>
 
 ---
