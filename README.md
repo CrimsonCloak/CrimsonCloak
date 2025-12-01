@@ -103,15 +103,6 @@ Enthousiastic about Linux, Docker and a little bit of development on the side. B
   </a>    
   </div>
 
-
-<!-- Languages stats-->
-
-
-<div align="center">
-<h2 style="color: #44AEFB">Programming languages</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrimsonCloak&size_weight=0&count_weight=1&show_icons=true&theme=dark&locale=en&layout=compact" alt="CrimsonCloak" /></p>
-</div>
-
 ---
 <!-- footer -->
 <div class="footer" align="center" style="margin:15px;">
