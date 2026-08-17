@@ -10,7 +10,7 @@
 
 
 <p style="font-family: Roboto, cursive">
-Enthousiastic about Linux, Docker and a little bit of development on the side. Big supporter of everything open source, but not experienced enough (yet!) to contribute to community projects as much as I would like to. My main interests include (but are not limited to) virtualisation, containerisation, gaming and game development/design.
+Enthousiastic about Linux, Docker and a little bit of development on the side. Big fan of everything open source. My main interests include (but are not limited to) virtualisation, containerisation, gaming and game development/design.
 </div>
 <!-- Skills and tools -->
 <div align="center">
